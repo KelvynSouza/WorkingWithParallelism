@@ -1,2 +1,2 @@
-# WorkingWithParallelism
-Project from Alura made to study Parallelism in C#
+# Alura-Paralelismo-com-CSharp-e-.NET
+Progresso de nosso desenvolvimento no curso de Paralelismo com C# e .NET
